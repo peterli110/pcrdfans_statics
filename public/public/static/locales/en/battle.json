@@ -1,0 +1,65 @@
+{
+  "title_meta": "Princess Connect Re:Dive Arena search",
+  "clear": "Clear",
+  "open": "Open",
+  "close": "Close",
+  "upload": "Upload",
+  "team1": "Team 1",
+  "team2": "Team 2",
+  "team3": "Team 3",
+
+  "defense": "Defense: ",
+
+  "all": "All",
+  "zh": "CN",
+  "tw": "TW",
+  "jp": "JP",
+
+  "search_result_notify": "*Only the characters in selected server will be returned",
+
+  "default_sort": "Default Sort",
+  "time_sort": "Sort by Time",
+  "rate_sort": "Sort by Rating",
+
+  "search": "Search",
+
+  "battle_result1": "*Please select the defense team",
+  "battle_result2": "(ノ▼Д▼)ノ No result, please go",
+  "battle_result3": "",
+
+  "add_comment": "Add Comment",
+  "comment1": "*Your new comment will overwrite old comment",
+  "comment2": "*Each record will keep maximum 20 comments",
+
+  "confirm_delete": "Gonna delete this record?",
+  "delete_failed": "Failed to delete!",
+
+  "copy_atk": "Copy attack team",
+  "copy_def": "Copy defense team",
+  "copy_all": "Copy all teams",
+  "copy_clip": "Copy to clipboard",
+
+  "more": "More",
+  "atkrange": "Attack range",
+
+  "private": "Private",
+  "group": "Group",
+  "editor": "Editor",
+
+  "noname": "No Name",
+  "more_comments": "More comments",
+  "hot_search": "Hot search",
+
+  "no_comment": "Please write something.",
+  "sensitive": "Be polite please_(:з」∠)_",
+
+  "last_page": "Last page",
+  "next_page": "Next page",
+
+  "no_more": "No more records!",
+  "select_one": "Please select at least one character",
+
+  "copy_err1": "No permission or incompatible with your browser_(:з」∠)_",
+  "copy_err2": "Please copy it manually",
+  "copied": "Copied to clipboard_(:з」∠)_"
+}

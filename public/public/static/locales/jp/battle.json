@@ -1,0 +1,65 @@
+{
+  "title_meta": "プリコネRe:Dive アリーナ検索",
+  "clear": "クリアー",
+  "open": "開く",
+  "close": "閉じる",
+  "upload": "アップロードする",
+  "team1": "チーム1",
+  "team2": "チーム2",
+  "team3": "チーム3",
+
+  "defense": "防衛編成: ",
+
+  "all": "すべて",
+  "zh": "CN",
+  "tw": "TW",
+  "jp": "JP",
+
+  "search_result_notify": "*選択したサーバーのキャラクターのみが返されます",
+
+  "default_sort": "デフォルトのソート",
+  "time_sort": "投稿日時",
+  "rate_sort": "評価",
+
+  "search": "検索",
+
+  "battle_result1": "*防衛チームを選択してください",
+  "battle_result2": "(ノ▼Д▼)ノ 検索結果はありません",
+  "battle_result3": "",
+
+  "add_comment": "コメントを追加する",
+  "comment1": "*新しいコメントは古いコメントを上書きします",
+  "comment2": "*各レコードは最大20のコメントを保持します",
+
+  "confirm_delete": "このレコードを削除しますか？",
+  "delete_failed": "削除できませんでした",
+
+  "copy_atk": "攻撃チームをコピー",
+  "copy_def": "防御チームをコピー",
+  "copy_all": "すべてのチームをコピー",
+  "copy_clip": "クリップボードにコピー",
+
+  "more": "もっと",
+  "atkrange": "攻撃範囲",
+
+  "private": "非公開",
+  "group": "グループ",
+  "editor": "編集者",
+
+  "noname": "名前なし",
+  "more_comments": "その他のコメント",
+  "hot_search": "ホットサーチ",
+
+  "no_comment": "何か書いてください",
+  "sensitive": "礼儀正しくしてください_(:з」∠)_",
+
+  "last_page": "前のページ",
+  "next_page": "次のページ",
+
+  "no_more": "これ以上の記録はありません",
+  "select_one": "少なくとも1つのキャラクターを選択してください",
+
+  "copy_err1": "許可がないか、ブラウザと互換性がありません_(:з」∠)_",
+  "copy_err2": "手動でコピーしてください",
+  "copied": "クリップボードにコピーしました_(:з」∠)_"
+}

@@ -1,0 +1,65 @@
+{
+  "title_meta": "公主连结竞技场数据查询",
+  "clear": "清除",
+  "open": "全部展开",
+  "close": "收起",
+  "upload": "上传",
+  "team1": "1队",
+  "team2": "2队",
+  "team3": "3队",
+
+  "defense": "防守方：",
+
+  "all": "全部角色",
+  "zh": "国服",
+  "tw": "台服",
+  "jp": "日服",
+
+  "search_result_notify": "*搜索的结果只会返回已选择服务器里存在的角色",
+
+  "default_sort": "综合排序",
+  "time_sort": "按时间",
+  "rate_sort": "按评价",
+
+  "search": "搜索",
+
+  "battle_result1": "*请选择对方的防守阵容",
+  "battle_result2": "(ノ▼Д▼)ノ没有找到相关结果呢，去",
+  "battle_result3": "一个记录吧",
+
+  "add_comment": "写评论",
+  "comment1": "*每个账号在同一条记录下的新评论会覆盖旧评论",
+  "comment2": "*每条评论最多50字，每条记录会保留20条最新评论",
+
+  "confirm_delete": "确定删除吗？",
+  "delete_failed": "删除失败！",
+
+  "copy_atk": "复制进攻队",
+  "copy_def": "复制防守队",
+  "copy_all": "复制全部",
+  "copy_clip": "复制到剪贴板",
+
+  "more": "更多",
+  "atkrange": "攻击范围计算",
+
+  "private": "非公开",
+  "group": "群组可见",
+  "editor": "编辑者",
+
+  "noname": "无名",
+  "more_comments": "更多评论",
+  "hot_search": "热门搜索",
+
+  "no_comment": "写点东西吧（",
+  "sensitive": "请文明发言_(:з」∠)_",
+
+  "last_page": "上一页",
+  "next_page": "下一页",
+
+  "no_more": "没有更多了！",
+  "select_one": "请至少选择一名角色",
+
+  "copy_err1": "没有权限或者浏览器不兼容_(:з」∠)_",
+  "copy_err2": "已在新窗口中打开，请手动复制",
+  "copied": "已复制到剪贴板_(:з」∠)_"
+}
