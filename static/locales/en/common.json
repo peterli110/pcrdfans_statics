@@ -29,7 +29,7 @@
   "login_modal2": "Please login first(´・ω・`)",
   "go_login": "Login",
   "cancel": "Cancel",
-  "err_modal": "(╥﹏╥)Something went wrong... Please press OK to reload page",
+  "err_modal": "(╥﹏╥)Something went wrong... Please try to reload page",
   "err_modal2": "Something went wrong..._(:з」∠)_",
   "update_modal": "New data received, please press OK to reload page",
   "refresh": "Reload",
