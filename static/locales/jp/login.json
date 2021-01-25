@@ -1,0 +1,32 @@
+{
+  "welcome_back": "お帰りなさい",
+  "sign_up": "新規ユーザーのサインアップ",
+
+  "username": "ユーザー名（大文字と小文字を区別）",
+  "password": "パスワード",
+  "confirm_password": "パスワードを認証する",
+  "nickname_full": "ニックネーム（オプション、コメントに表示されます）",
+  "nickname_too_long": "ニックネームが長すぎます",
+  "nickname": "ニックネーム",
+
+  "no_account": "アカウントをお持ちではありませんか？",
+  "have_account": "すでにアカウントをお持ちですか？",
+  "go_signup": "サインアップページに移動します",
+  "go_login": "ログインページに移動",
+
+  "username_check_err": "ユーザー名にスペースや特殊文字を含めることはできません_(:з」∠)_",
+  "account_not_exist": "このアカウントが見つからないようです_(:3 」∠ )_",
+  "account_existed": "ユーザー名が存在します。別のユーザー名を使用してみてください_(:3 」∠ )_",
+  "wrong_password": "間違ったパスワード(:3 」∠ )_",
+
+  "need_username": "ユーザー名を入力してください(ﾉ>ω<)ﾉ",
+  "username_too_short": "ユーザー名が短すぎます(･ω´･ )",
+  "username_too_long": "ユーザー名が長すぎます(･ω´･ )",
+
+  "need_password": "パスワードを入力してください(ﾉ>ω<)ﾉ",
+  "password_too_short": "パスワードは6文字以上である必要があります╮(╯_╰)╭",
+  "password_too_long": "パスワードが長すぎます(･ω´･ )",
+
+  "confirm_password_err": "パスワードを確認してください(ﾉ>ω<)ﾉ",
+  "cannot_confirm_password": "パスワードが一致しないことを確認する(ﾉ>ω<)ﾉ"
+}

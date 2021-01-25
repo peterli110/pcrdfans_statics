@@ -1,5 +1,6 @@
 {
-  "title_meta": "プリコネRe:Dive アリーナ検索",
+  "title_meta": "プリコネ アリーナ検索",
+  "upload_title_meta": "プリコネ アリーナ対戦履歴のアップロード",
   "clear": "クリアー",
   "open": "開く",
   "close": "閉じる",
@@ -8,12 +9,7 @@
   "team2": "チーム2",
   "team3": "チーム3",
 
-  "defense": "防衛編成: ",
-
-  "all": "すべて",
-  "zh": "CN",
-  "tw": "TW",
-  "jp": "JP",
+  "defense": "防衛編成:",
 
   "search_result_notify": "*選択したサーバーのキャラクターのみが返されます",
 
@@ -42,6 +38,8 @@
   "more": "もっと",
   "atkrange": "攻撃範囲",
 
+  "visibility": "権限選択",
+  "public": "公開",
   "private": "非公開",
   "group": "グループ",
   "editor": "編集者",
@@ -61,5 +59,22 @@
 
   "copy_err1": "許可がないか、ブラウザと互換性がありません_(:з」∠)_",
   "copy_err2": "手動でコピーしてください",
-  "copied": "クリップボードにコピーしました_(:з」∠)_"
+  "copied": "クリップボードにコピーしました_(:з」∠)_",
+
+  "login_notification1": "*",
+  "login_notification2": "後にアップロードしてください",
+  "after_upload_notification": "*レコードは潜在的なサーバーに自動的に割り当てられます。特別な条件がある場合はコメントアウトしてください",
+  "mobile_notification": "*アイコンをクリックして詳細を選択します",
+  "select_more": "5つのキャラクターを選択してください(つ´ω`)つ",
+  "same_record1": "同一のレコードが見つかりました",
+  "same_record2": "コメントを書いてください(๑• . •๑)",
+  "censored": "丁寧にコメントしてください_(:з」∠)_",
+
+  "select1": "",
+  "select2": "チームを選択",
+  "attack_team": "攻撃",
+  "defense_team": "防衛",
+
+  "comment": "コメント（最大100文字）",
+  "comment_placeholder": "選択した言語が日本語の場合、コメントが表示されます"
 }

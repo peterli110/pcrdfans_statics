@@ -1,0 +1,32 @@
+{
+  "welcome_back": "Welcome back",
+  "sign_up": "New user sign up",
+
+  "username": "Username (case sensitive)",
+  "password": "Password",
+  "confirm_password": "Confirm password",
+  "nickname_full": "Nickname (optional, will be displayed in comments)",
+  "nickname_too_long": "Nickname too long!",
+  "nickname": "Nickname",
+
+  "no_account": "Don't have an account?",
+  "have_account": "Already have an account？",
+  "go_signup": "Go to sign up page",
+  "go_login": "Go to login page",
+
+  "username_check_err": "Username cannot contain spaces and special characters_(:з」∠)_",
+  "account_not_exist": "Looks like we can't find this account_(:3 」∠ )_",
+  "account_existed": "Username exists, please try to use another one_(:3 」∠ )_",
+  "wrong_password": "Wrong password(:3 」∠ )_",
+
+  "need_username": "Please input username(ﾉ>ω<)ﾉ",
+  "username_too_short": "Username too short(･ω´･ )",
+  "username_too_long": "Username too long(･ω´･ )",
+
+  "need_password": "Please input password(ﾉ>ω<)ﾉ",
+  "password_too_short": "Password should be at least 6 letters╮(╯_╰)╭",
+  "password_too_long": "Password too long(･ω´･ )",
+
+  "confirm_password_err": "Please confirm password(ﾉ>ω<)ﾉ",
+  "cannot_confirm_password": "Password is not match(ﾉ>ω<)ﾉ"
+}

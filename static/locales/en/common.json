@@ -3,6 +3,7 @@
   "homepage": "Home",
   "menu": "Menu",
   "search": "Arena",
+  "battle_upload": "Battle History Upload",
   "teambuilder": "Team Builder",
   "hot": "Hot Characters",
   "login": "Login",
@@ -22,6 +23,13 @@
   "clan_battle": "Clan Battle",
   "myupload": "My Uploads",
   "donate": "Donate",
+
+  "select_server": "Select your server",
+  "all": "All",
+  "zh": "CN",
+  "tw": "TW",
+  "jp": "JP",
+  "global": "Global",
 
 
   "network_err": "Connection error, please try again_(:з」∠)_",
@@ -46,6 +54,10 @@
   "submit": "Submit",
   "delete": "Delete",
   "close": "Close",
+  "goback": "Back",
+  "reselect": "Reselect",
+  "confirm": "Confirm",
+  "clear": "Clear",
 
   "front": "Front",
   "middle": "Middle",

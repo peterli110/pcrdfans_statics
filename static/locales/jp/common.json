@@ -1,8 +1,9 @@
 {
-  "siteName": "プリコネ Re:Dive Fan Club",
+  "siteName": "プリコネ Fan Club",
   "homepage": "ホーム",
   "menu": "メニュー",
   "search": "アリーナ",
+  "battle_upload": "対戦履歴のアップロード",
   "teambuilder": "チームビルダー",
   "hot": "ホットなキャラクター",
   "login": "ログイン",
@@ -23,6 +24,13 @@
   "myupload": "アップロード",
   "donate": "寄付",
 
+  "select_server": "サーバーを選択してください",
+  "all": "すべて",
+  "zh": "CN",
+  "tw": "TW",
+  "jp": "JP",
+  "global": "Global",
+
 
   "network_err": "接続エラーしばらくしてからお試しください_(:з」∠)_",
   "login_modal1": "ログインが必要です",
@@ -40,12 +48,16 @@
   "time_err1": "無効なシステム時間",
   "time_err2": "正しいシステム時間を設定してください",
 
-  "site_name_meta": "プリコネRe: Dive Fan Club - ハードコアアリーナデータ分析",
-  "site_description_meta": "プリコネRe: Dive Fan Club - ハードコアアリーナデータ分析",
+  "site_name_meta": "プリコネ Fan Club - ハードコアアリーナデータ分析",
+  "site_description_meta": "プリコネ Fan Club - ハードコアアリーナデータ分析",
 
-  "submit": "提出する",
+  "submit": "保存する",
   "delete": "削除する",
   "close": "閉じる",
+  "goback": "戻る",
+  "reselect": "再選択",
+  "confirm": "確認",
+  "clear": "クリアー",
 
   "front": "前衛",
   "middle": "中衛",

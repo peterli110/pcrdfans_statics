@@ -3,6 +3,7 @@
   "homepage": "主页",
   "menu": "菜单",
   "search": "竞技场查询",
+  "battle_upload": "战绩上传",
   "teambuilder": "自动配队",
   "hot": "登场率排名",
   "login": "登录",
@@ -22,6 +23,13 @@
   "clan_battle": "工会战",
   "myupload": "我的作业",
   "donate": "赞助本项目",
+
+  "select_server": "选择服务器",
+  "all": "全部角色",
+  "zh": "国服",
+  "tw": "台服",
+  "jp": "日服",
+  "global": "国际服",
 
 
   "network_err": "网络错误，再试一次吧_(:з」∠)_",
@@ -46,6 +54,10 @@
   "submit": "提交",
   "delete": "删除",
   "close": "关闭",
+  "goback": "返回",
+  "reselect": "重新选择",
+  "confirm": "确认",
+  "clear": "清除",
 
   "front": "前卫",
   "middle": "中卫",

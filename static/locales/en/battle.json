@@ -1,5 +1,6 @@
 {
   "title_meta": "Princess Connect Re:Dive Arena search",
+  "upload_title_meta": "Princess Connect Re:Dive battle history upload",
   "clear": "Clear",
   "open": "Open",
   "close": "Close",
@@ -8,14 +9,9 @@
   "team2": "Team 2",
   "team3": "Team 3",
 
-  "defense": "Defense: ",
+  "defense": "Def team:",
 
-  "all": "All",
-  "zh": "CN",
-  "tw": "TW",
-  "jp": "JP",
-
-  "search_result_notify": "*Only the characters in selected server will be returned",
+  "search_result_notify": "*Only the characters in selected server will be displayed",
 
   "default_sort": "Default Sort",
   "time_sort": "Sort by Time",
@@ -42,6 +38,8 @@
   "more": "More",
   "atkrange": "Attack range",
 
+  "visibility": "Visibility",
+  "public": "Public",
   "private": "Private",
   "group": "Group",
   "editor": "Editor",
@@ -61,5 +59,22 @@
 
   "copy_err1": "No permission or incompatible with your browser_(:з」∠)_",
   "copy_err2": "Please copy it manually",
-  "copied": "Copied to clipboard_(:з」∠)_"
+  "copied": "Copied to clipboard_(:з」∠)_",
+
+  "login_notification1": "*Please upload after",
+  "login_notification2": "",
+  "after_upload_notification": "*Records will be assigned to potential servers automatically, please comment out if there are special conditions",
+  "mobile_notification": "*Click character icon to select details",
+  "select_more": "Please select 5 characters(つ´ω`)つ",
+  "same_record1": "Found identical record!",
+  "same_record2": "Please write some comments(๑• . •๑)",
+  "censored": "Please comment politely_(:з」∠)_",
+
+  "select1": "Select",
+  "select2": "team",
+  "attack_team": " attack ",
+  "defense_team": " defense ",
+
+  "comment": "Comment (maximum 100 characters)",
+  "comment_placeholder": "Your comment will be displayed when selected language is English"
 }
