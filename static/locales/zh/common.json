@@ -61,5 +61,12 @@
 
   "front": "前卫",
   "middle": "中卫",
-  "back": "后卫"
+  "back": "后卫",
+
+  "all_attributes": "全部属性",
+  "fire": "火",
+  "water": "水",
+  "wind": "风",
+  "light": "光",
+  "dark": "暗"
 }

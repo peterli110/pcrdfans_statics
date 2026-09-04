@@ -61,5 +61,12 @@
 
   "front": "Front",
   "middle": "Middle",
-  "back": "Back"
+  "back": "Back",
+
+  "all_attributes": "All Attributes",
+  "fire": "Fire",
+  "water": "Water",
+  "wind": "Wind",
+  "light": "Light",
+  "dark": "Dark"
 }

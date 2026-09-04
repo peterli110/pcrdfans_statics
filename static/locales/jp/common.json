@@ -61,5 +61,12 @@
 
   "front": "前衛",
   "middle": "中衛",
-  "back": "後衛"
+  "back": "後衛",
+
+  "all_attributes": "全属性",
+  "fire": "火",
+  "water": "水",
+  "wind": "風",
+  "light": "光",
+  "dark": "闇"
 }
